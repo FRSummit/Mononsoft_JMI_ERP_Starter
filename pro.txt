@@ -1,0 +1,31 @@
+>> create project
+>> vue add vuetify
+>> npm install materialize-css@next
+>> import $ from 'jquery'
+>> npm install --save config vee-validate
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
